@@ -1,5 +1,5 @@
 .bodyBackgorund {
-    background-image: url("rocket.jpg");
+    background-image: url("https://pt.bcdn.biz/Images/2018/12/31/90e6b67b-5103-4905-9339-7ae38210fae2.jpg");
     background-position: center;
     background-size: cover;
   }
@@ -14,13 +14,13 @@
   #myCanvas
   {
       border-width:10px;
-      background-color:lightblue; 
+      background-color:pink; 
       border-style:ridge;
-      border-color:darkorchid;
+      border-color:brown;
   }
 
   button {
-    background-color: #4CAF50;
+    background-color: ;
     border: none;
     color: white;
     padding: 10px 42px;
@@ -31,4 +31,3 @@
   {
     margin-right: 20px;
   }
-  
